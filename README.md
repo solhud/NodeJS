@@ -6,7 +6,7 @@ Folder :
   
   "npm install moment" untuk install modul momentjs
   
- * belajar-modul-nodejs
+* belajar-modul-nodejs
  
   "npm init --yes" buat file package.json secara default
   
@@ -32,13 +32,13 @@ Folder :
   
   form_get.js : mengambil data menggunakan meetode POST
   
-* nodejs-upload
+ * nodejs-upload
 
-  modul yang digunakan : formidable dan mv
+   modul yang digunakan : formidable dan mv
   
-  form_upload.html : form ini akan mengirim ke / (root) website
+   form_upload.html : form ini akan mengirim ke / (root) website
   
-  upload-file.js : server untuk upload file
+   upload-file.js : server untuk upload file
   
 * nodejs-mysql
 
