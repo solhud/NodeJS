@@ -1,0 +1,14 @@
+{
+  "name": "belajar-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "node index.js"
+  },
+  "author": "sholihul",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.26.0"
+  }
+}
